@@ -66,11 +66,11 @@ Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el 
 termux-setup-storage
 ```  
 ```ts
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Wilsmac/FantasyBot-MD/master/Fantasy.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/andric73315260/senna-bot.git | bash
 ```
 
  <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=Termux++;activa+el+Bot+en" height="100px"></a> 
+<a href="https://github.com/andric73315260"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=Termux++;activa+el+Bot+en" height="100px"></a> 
 </p>
 
 ### Enstalacion por termux seleccione uno por uno y pega en termux 
