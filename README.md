@@ -63,15 +63,26 @@ Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el 
 ### TERMUX
 1.
 ```sh
-```sh pkg upgrade -y && pkg update -y ```
-```sh pkg install git -y ```
-```sh pkg install nodejs -y ```
-```sh pkg install ffmpeg -y ```
-```sh pkg install imagemagick -y ```
-```sh git clone https://github.com/andric73315260/senna-bot.git ```
+pkg upgrade -y && pkg update -y
+```
+```sh
+pkg install git -y
+```
+```sh
+pkg install nodejs -y
+```
+```sh
+pkg install ffmpeg -y
+```
+```sh
+pkg install imagemagick -y
+```
+```sh
+git clone https://github.com/andric73315260/senna-bot.git
+```
 ```sh
 cd senna-bot
- ```
+```
 ```sh
  npm i
 ```
