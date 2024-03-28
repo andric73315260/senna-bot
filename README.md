@@ -63,15 +63,20 @@ Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el 
 ### TERMUX
 1.
 ```sh
-``` pkg upgrade -y && pkg update -y ```
-``` pkg install git -y ```
-``` pkg install nodejs -y ```
-``` pkg install ffmpeg -y ```
-``` pkg install imagemagick -y ```
-``` git clone https://github.com/andric73315260/senna-bot.git ```
-``` cd senna-bot ```
-``` npm i ```
-``` npm start ```
+```sh pkg upgrade -y && pkg update -y ```
+```sh pkg install git -y ```
+```sh pkg install nodejs -y ```
+```sh pkg install ffmpeg -y ```
+```sh pkg install imagemagick -y ```
+```sh git clone https://github.com/andric73315260/senna-bot.git ```
+```sh
+cd senna-bot
+ ```
+```sh
+ npm i
+```
+```sh
+npm start
 ```
 1. Esperar a que se inicie el bot...
 2. Escanea el código QR desde el segundo dispositivo. (ir a whatsapp > Dispositivos Vinculados > Vincular un dispositivo)
