@@ -60,7 +60,20 @@ Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el 
 | **FFMPEG** |[click](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-### TERMUX
+## <h1>Instalación automática por termux</h1>
+ 
+```ts
+termux-setup-storage
+```  
+```ts
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Wilsmac/FantasyBot-MD/master/Fantasy.sh | bash
+```
+
+ <p align="center"> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=Termux++;activa+el+Bot+en" height="100px"></a> 
+</p>
+
+### Enstalacion por termux seleccione uno por uno y pega en termux 
 1.
 ```sh
 pkg upgrade -y && pkg update -y
