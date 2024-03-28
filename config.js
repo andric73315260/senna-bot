@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5491168352204']
+  ['59173315260', 'creador', true],
+  ['5491168352204'] ['59172945992']
 ] //Numeros de owner 
 
 global.mods = [''] 
@@ -32,6 +32,7 @@ global.fgpyp = 'https://paypal.me/fg98f'
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
 
 //--- Grupos WA
+global.fgsoporte = 'https://chat.whatsapp.com/KixLH7hCmQm0QKW5huB8gn'
 global.fgcanal = 'https://whatsapp.com/channel/0029VaCeuZd6mYPQiWqxXj1F'
 global.bgp = 'https://chat.whatsapp.com/BESBo5xjvIZE4YVvth6Yzr'
 global.bgp2 = 'https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7'
